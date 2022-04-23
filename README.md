@@ -31,7 +31,7 @@ cd MatrixOperations/smoke_tests
 ./smoke_test.sh ../matrices
 ```
 
-If you have Valgrind installed then look at lines in `MatrixOperations/smoke_tests/smoke_test.sh`
+If you have Valgrind installed then look at [line](https://github.com/IlyaEp/CppCourse/blob/98630c4cd176f9cedf5c141732e4c8e4dcef4d8a/MatrixOperations/smoke_tests/smoke_test.sh#L13) in `MatrixOperations/smoke_tests/smoke_test.sh`
 
 ### Example usage
 ```bash
